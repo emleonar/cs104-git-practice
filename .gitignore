@@ -1,4 +1,7 @@
-*helloworld
+# practice ignoring stuff
+helloworld
+helloworld2
+
 # Prerequisites
 *.d
 
